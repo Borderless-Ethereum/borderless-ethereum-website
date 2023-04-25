@@ -708,6 +708,10 @@ section {
   margin-bottom: 0;
 }
 
+.about-video #poap-cards {
+  border: 1px solid #e6e6e6;
+}
+
 .about-video .play-btn {
   width: 94px;
   height: 94px;
